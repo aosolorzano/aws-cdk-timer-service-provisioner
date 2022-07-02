@@ -1,0 +1,7 @@
+{
+  "name": "ionic-timer-service-amplify",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
